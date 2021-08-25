@@ -1,0 +1,1 @@
+no need to start rmi registry, RMIServer automaticaly run the registry
